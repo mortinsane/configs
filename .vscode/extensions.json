@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "kamikillerto.vscode-colorize",
+    "pranaygp.vscode-css-peek",
+    "editorconfig.editorconfig",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "tal7aouy.icons",
+    "zignd.html-css-class-completion",
+    "ritwickdey.liveserver",
+    "zhuangtongfa.material-theme",
+    "ionutvmi.path-autocomplete",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "ms-python.debugpy"
+  ]
+}
