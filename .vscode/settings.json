@@ -1,0 +1,13 @@
+{
+  "editor.fontSize": 14,
+  "editor.lineNumbers": "on",
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 100,
+
+  "[powershell]": {
+    "files.encoding": "utf8bom"
+  },
+  
+  "python.terminal.activateEnvironment": true
+
+}
