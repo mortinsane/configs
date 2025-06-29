@@ -13,6 +13,7 @@
     "ionutvmi.path-autocomplete",
     "ms-python.vscode-pylance",
     "ms-python.python",
-    "ms-python.debugpy"
+    "ms-python.debugpy",
+    "solnurkarim.html-to-css-autocompletion"
   ]
 }
