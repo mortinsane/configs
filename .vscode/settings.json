@@ -20,6 +20,9 @@
     "editor.defaultFormatter": "vscode.html-language-features",
     "editor.formatOnSave": true
   },
+  "emmet.includeLanguages": {
+      "django-html": "html"
+  },
 
   "python.terminal.activateEnvironment": true
 
